@@ -6,4 +6,4 @@ weight=float(input("Enter the Weight is Kilograms: "))
 # Here height will be calculate first due to PEDMAS rule and then divided by weight and stored in bmi variable
 bmi=weight/(height*height)
 #Printing the result
-print(bmi)
+print("The BMI is: ",bmi)
