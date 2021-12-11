@@ -13,3 +13,4 @@ print(f"You have {days} days, {months} months, {weeks} weeks left.")
 
 #Result can also be printed in the below way.Remove the below comment to see the result
 
+# print("\nYou have",days,"days," ,months,"months,", weeks,"weeks left.")  
