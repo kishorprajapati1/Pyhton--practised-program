@@ -1,4 +1,4 @@
-#Program to calculate tip and share the Amount of bill equally
+#Program to calculate tip and share the Amount of bill equally for each individual
 print("Welcome to Tip Calculator: ")
 enter_amount=float(input("Enter the Bill Amount: "))
 
