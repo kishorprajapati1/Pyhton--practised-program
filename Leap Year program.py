@@ -5,9 +5,9 @@ if leap_year%4==0:
     if leap_year%100==0:
         print("It is a leap year.")
     elif leap_year%400==0:
-        print("It is leap year divisible by 400")
+        print("It is leap year.")
     else:
         print("It is not a leap year.")
 
 else:
-    print("It is not leap year, party hard.")
+    print("It is not leap year.")
