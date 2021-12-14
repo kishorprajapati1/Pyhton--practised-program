@@ -8,6 +8,5 @@ if leap_year%4==0:
         print("It is leap year.")
     else:
         print("It is not a leap year.")
-
 else:
     print("It is not leap year.")
